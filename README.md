@@ -5,8 +5,8 @@ A facial recognition system is a technology capable of matching a human face fro
 <strong> MYSQL Connector </strong>
 <strong> numpy </strong></br>
 <strong> Opencv </strong></br>
-<strong> Opencv-Contrib-Python </strong>
-<strong> OS </strong>
+<strong> Opencv-Contrib-Python </strong></br>
+<strong> OS </strong></br>
 <strong> Pillow </strong>
 
 # Commands
